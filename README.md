@@ -1,0 +1,2 @@
+# google-hosts
+使用方法 1.下载之后会得到windows用批处理、Windows系列跟苹果系列、Android安卓跟Linux系列三个文件夹 windows用户直接运行下载windows用批处理文件里的.bat脚本，hosts会自动替换，如果无法自动替换，请用管理员身份权限手动修改
